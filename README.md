@@ -18,6 +18,7 @@ Por linha de comando, siga o padrão:
 Para teste do banco de dados disponibilizamos um ![arquivo DML](http://github.com/blablabla).  
 Siga as instruções acima, lembrando de referenciar o nome do seu banco de dados em USE DATABASE nome_BD.
 <br>
+<br>
 
 ## Diagrama de Entidade-Relacionamento
 Para melhor visualização da estrutura do BD, segue abaixo a representação de suas entidades e seus relacionamentos.  
