@@ -19,7 +19,7 @@ Siga as instruções acima, lembrando de referenciar o nome do seu banco de dado
 <br>
 
 ## Diagrama de Entidade-Relacionamento
-Para melhor visualização da estrutura do BD, segue abaixo a representação dos relacionamentos.  
+Para melhor visualização da estrutura do BD, segue abaixo a representação de suas entidades e seus relacionamentos.  
 <br>
 ![image](https://github.com/priscilasanches/ReadMePI/assets/90432175/da053af0-ded1-4440-9ed5-42e28a547fe1)    
 
