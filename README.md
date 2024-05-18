@@ -7,8 +7,9 @@
 ## Instanciando o BD
 Para instanciar o banco de dados deste projeto é necessário ter instalado o MySQL 8.0 ou superior.  
 <br>
-**Instruções:**  
-Baixe o ![arquivo DDL](http://github.com/blablabla). Ele contém as instruções e comandos da estrutura do banco de dados.   
+**INSTRUÇÕES:**  
+<br>
+Baixe o ![arquivo DDL](http://github.com/blablabla). Ele contém as instruções e comandos para definição da estrutura do banco de dados.   
 Caso opte pela utilização do MySQL Workbench, vá na opção _File_, _Open SQL Script_, e escolha o arquivo baixado. Execute as intruções.  
 Por linha de comando, siga o padrão:
 <code> mysql -u root -p senha seu_banco_de_dados < C:\caminho\para\seu\arquivo.sql </code>  
@@ -18,6 +19,8 @@ Siga as instruções acima, lembrando de referenciar o nome do seu banco de dado
 <br>
 
 ## Diagrama de Entidade-Relacionamento
+Para melhor visualização da estrutura do BD, segue abaixo a representação dos relacionamentos.  
+<br>
 ![image](https://github.com/priscilasanches/ReadMePI/assets/90432175/da053af0-ded1-4440-9ed5-42e28a547fe1)    
 
 <br>
