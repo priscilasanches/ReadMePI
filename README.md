@@ -6,6 +6,7 @@
 
 ## Instanciando o BD
 Para instanciar o banco de dados deste projeto é necessário ter instalado o MySQL 8.0 ou superior.  
+Para melhor visualização e manipulação dos dados aconselha-se o uso do MySQL Workbench.  
 <br>
 **INSTRUÇÕES:**  
 <br>
