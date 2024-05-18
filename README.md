@@ -5,13 +5,21 @@
 <br>
 
 ## Instanciando o BD
-- ### Requisitos operacionais
-- ### Preparando o ambiente
-- ### Carregando os scripts  
+Para instanciar o banco de dados deste projeto é necessário ter instalado o MySQL 8.0 ou superior.  
+<br>
+**Instruções:**  
+Baixe o ![arquivo DDL](http://github.com/blablabla). Ele contém as instruções e comandos da estrutura do banco de dados.   
+Caso opte pela utilização do MySQL Workbench, vá na opção _File_, _Open SQL Script_, e escolha o arquivo baixado. Execute as intruções.  
+Por linha de comando, siga o padrão:
+<code> mysql -u root -p senha seu_banco_de_dados < C:\caminho\para\seu\arquivo.sql </code>  
+<br>
+Para teste do banco de dados disponibilizamos um ![arquivo DML](http://github.com/blablabla).  
+Siga as instruções acima, lembrando de referenciar o nome do seu banco de dados em USE DATABASE nome_BD.
 <br>
 
 ## Diagrama de Entidade-Relacionamento
-![image](https://github.com/priscilasanches/ReadMePI/assets/90432175/da053af0-ded1-4440-9ed5-42e28a547fe1)  
+![image](https://github.com/priscilasanches/ReadMePI/assets/90432175/da053af0-ded1-4440-9ed5-42e28a547fe1)    
+
 <br>
 
 **Acesse o projeto completo ![aqui](http://github.com/blablabla)**  
